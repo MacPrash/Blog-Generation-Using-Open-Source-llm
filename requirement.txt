@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+langchain-core
+langchain-community
+langchain-groq
+langchain_core
+typing-extension
+langgraph
+langgraph-cli[inmem]
+
